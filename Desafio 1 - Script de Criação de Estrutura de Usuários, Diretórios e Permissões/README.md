@@ -1,8 +1,6 @@
 
-##Projeto 1
+## Projeto 1
 
-![Exemplo de Screenshot](Imagens/Semtítul.png)
+![Exemplo de Screenshot](imagens/tela1.png)
 
-![Exemplo de Screenshot](imagens/dashboard.png)
-
-
+![Exemplo de Screenshot](imagens/tela2.png)
