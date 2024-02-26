@@ -6,4 +6,4 @@
 
 ## Formação Linux Fundamentals
 
-Projetos do bootcamp.
+Projetos do bootcamp, o segundo desafio está no branch "desafio2".
